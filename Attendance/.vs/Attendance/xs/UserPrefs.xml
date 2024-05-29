@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{0A4DDD92-1710-48D6-9B76-7CC2720D8021}|FinalProject">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Attendance PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Attendance.sln">
+    <Files>
+      <File FileName="Attendance.csproj" Line="9" Column="66" />
+      <File FileName="Attendance.sln" Line="6" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Attendance" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
